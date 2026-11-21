@@ -158,4 +158,4 @@ Slash-only roleplay action: `baka`.
 
 ## Owner-Only
 
-`purifyblacklist` · `purifyunblacklist`
+`deoblacklist` · `debounlbacklist`
